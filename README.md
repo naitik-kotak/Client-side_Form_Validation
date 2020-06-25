@@ -1,4 +1,3 @@
-<<<<<<< HEAD
-=======
+Client-side_Form_Validation
 
->>>>>>> c5e11ece06176206008d964669c9bece7289aa54
+A simple Form Validation using javascript
